@@ -1,3 +1,8 @@
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/a2abaea1-3730-4de9-bfde-595d10fb7fdf" />
+
+
+
+
 # Interactive-AI-chatbot-and-voice-chatbot
 🤖 Interactive AI Chatbot &amp; Voice Chatbot enables natural conversations through text and voice. Powered by NLP, speech recognition, and TTS, it provides real-time responses for support, learning, or personal use. Extendable to multilingual chats and deployable on web or mobile apps.
 
